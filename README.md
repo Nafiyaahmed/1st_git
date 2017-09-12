@@ -1,5 +1,5 @@
 # My 1st github repo
-** Steps: **
+**Steps:**
 * Create an account
 
 
